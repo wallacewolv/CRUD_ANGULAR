@@ -56,7 +56,8 @@ Application created with CLI from Angular, typing with Typescript and local back
 :heavy_check_mark: Created component Footer;\
 :heavy_check_mark: Created component Navigation;\
 :heavy_check_mark: Created component Home;\
-:heavy_check_mark: Created component Product Crud;
+:heavy_check_mark: Created component Product Crud;\
+:heavy_check_mark: Created directive Red Directive;
 
 ## :rocket: Technologies ##
 
