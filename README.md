@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="frontend/src/assets/img/logo.png" alt="CRUD ANGULAR" width="180px"/>
+  <img src="frontend/src/assets/img/logo.png" alt="CRUD ANGULAR" width="250px"/>
 
   &#xa0;
 

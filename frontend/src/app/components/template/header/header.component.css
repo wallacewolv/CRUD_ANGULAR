@@ -17,7 +17,8 @@
 
 .header .title-group {
     padding-left: 25px;
-    color: rgb(33, 243, 173);
+    color: #FFF;
+    /* color: rgb(33, 243, 173); */
 }
 
 .header .title-group i {
