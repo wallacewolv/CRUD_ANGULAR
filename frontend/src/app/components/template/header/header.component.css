@@ -11,16 +11,16 @@
 }
 
 .header .logo {
-    max-height: 57px;
+    max-height: 3.6rem;
     /* max-height: 2rem; */
 }
 
 .header .title-group {
-    padding-left: 35px;
+    padding-left: 2.2rem;
     color: #FFF;
     /* color: rgb(33, 243, 173); */
 }
 
 .header .title-group i {
-    padding-right: 5px;
+    padding-right: 0.3rem;
 }
