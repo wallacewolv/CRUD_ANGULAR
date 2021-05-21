@@ -1,7 +1,7 @@
 .header {
     display: flex;
     align-items: center;
-    background-color: #414e64;
+    background-color: #455166;
 }
 
 .header a {
@@ -11,16 +11,22 @@
 }
 
 .header .logo {
+  padding-left: 1.2rem;
     max-height: 3.6rem;
-    /* max-height: 2rem; */
+}
+
+.header .divider {
+  margin-left: 1.65rem;
+  height: 2.5rem;
+  width: .1rem;
+  background-color: #313947;
 }
 
 .header .title-group {
-    padding-left: 2.2rem;
+    padding-left: 1rem;
     color: #FFF;
-    /* color: rgb(33, 243, 173); */
 }
 
 .header .title-group i {
-    padding-right: 0.3rem;
+    padding-right: 0.5rem;
 }

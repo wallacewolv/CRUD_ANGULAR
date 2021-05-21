@@ -9,3 +9,11 @@
   font-size: 1.1rem;
   font-weight: 300;
 }
+
+.footer .linkGit {
+  text-decoration: none;
+  color: #000000;
+}
+.footer .linkGit:hover {
+  color: #16134b;
+}

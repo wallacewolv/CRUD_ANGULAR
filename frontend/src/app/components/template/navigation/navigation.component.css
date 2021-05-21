@@ -8,6 +8,11 @@
   color: #FFF;
 }
 
+.sidenav a:hover {
+  background-image: linear-gradient(to right, #0f3d92, #1e9da7);
+  color: black;
+}
+
 .sidenav i {
   padding-right: 0.62rem;
 }
