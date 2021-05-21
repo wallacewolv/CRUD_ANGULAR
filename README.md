@@ -52,9 +52,9 @@ Application created with CLI from Angular, typing with Typescript and local back
 
 :heavy_check_mark: Created local backend with json-server;\
 :heavy_check_mark: Frontend created with Angular CLI;\
-:heavy_check_mark: Frontend created component Header;\
-:heavy_check_mark: Frontend created component Footer;\
-:heavy_check_mark: Frontend created component Navigation;
+:heavy_check_mark: Created component Header;\
+:heavy_check_mark: Created component Footer;\
+:heavy_check_mark: Created component Navigation;
 
 ## :rocket: Technologies ##
 
