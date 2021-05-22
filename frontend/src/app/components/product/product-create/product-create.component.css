@@ -1,0 +1,12 @@
+/* .card {
+  width: 40rem;
+} */
+.form {
+  /* width: 40rem; */
+  display: flex;
+  flex-direction: column;
+}
+
+.button {
+  margin: 1.25rem 1rem 0 0;
+}
