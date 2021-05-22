@@ -59,7 +59,8 @@ Application created with CLI from Angular, typing with Typescript and local back
 :heavy_check_mark: Created Product Crud component;\
 :heavy_check_mark: Created Red Directive directive;\
 :heavy_check_mark: Created Product Create component;\
-:heavy_check_mark: Created Product model;
+:heavy_check_mark: Created Product Model;\
+:heavy_check_mark: Created Product Service;
 
 ## :rocket: Technologies ##
 
