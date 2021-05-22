@@ -52,12 +52,13 @@ Application created with CLI from Angular, typing with Typescript and local back
 
 :heavy_check_mark: Created local backend with json-server;\
 :heavy_check_mark: Frontend created with Angular CLI;\
-:heavy_check_mark: Created component Header;\
-:heavy_check_mark: Created component Footer;\
-:heavy_check_mark: Created component Navigation;\
-:heavy_check_mark: Created component Home;\
-:heavy_check_mark: Created component Product Crud;\
-:heavy_check_mark: Created directive Red Directive;
+:heavy_check_mark: Created Header component;\
+:heavy_check_mark: Created Footer component;\
+:heavy_check_mark: Created Navigation component;\
+:heavy_check_mark: Created Home component;\
+:heavy_check_mark: Created Product Crud component;\
+:heavy_check_mark: Created Red Directive directive;\
+:heavy_check_mark: Created Product Create component;
 
 ## :rocket: Technologies ##
 
