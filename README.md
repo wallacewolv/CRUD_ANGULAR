@@ -62,7 +62,8 @@ Application created with CLI from Angular, typing with Typescript and local back
 :heavy_check_mark: Created Product Model;\
 :heavy_check_mark: Created Product Service;\
 :heavy_check_mark: Created Create Function using HttpClient post;\
-:heavy_check_mark: Created Product Form;
+:heavy_check_mark: Created Product Form;\
+:heavy_check_mark: Created Product Read component with get from HttpClient;
 
 ## :rocket: Technologies ##
 
