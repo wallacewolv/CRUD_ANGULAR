@@ -50,7 +50,7 @@ Application created with CLI from Angular, typing with Typescript and local back
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Created local backend with json-server;\
+:heavy_check_mark: Local backend created with json-server;\
 :heavy_check_mark: Frontend created with Angular CLI;\
 :heavy_check_mark: Created Header component;\
 :heavy_check_mark: Created Footer component;\

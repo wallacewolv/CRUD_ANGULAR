@@ -7,8 +7,11 @@
 }
 
 .footer > span {
-  font-size: 1.1rem;
+  font-size: 0.8rem;
   font-weight: 300;
+}
+.footer i {
+  font-size: 1.2rem;
 }
 
 .footer .linkGit {
