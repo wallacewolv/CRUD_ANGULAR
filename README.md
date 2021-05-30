@@ -65,7 +65,8 @@ Application created with CLI from Angular, typing with Typescript and local back
 :heavy_check_mark: Created Product Form;\
 :heavy_check_mark: Created Product Read component with get from HttpClient;\
 :heavy_check_mark: Integrating Table Component by adding locale en pt-BR;\
-:heavy_check_mark: Created readById and updated function for data manipulation;
+:heavy_check_mark: Created readById and updated function for data manipulation;\
+:heavy_check_mark: Created Update component with change in the update function and template;
 
 ## :rocket: Technologies ##
 

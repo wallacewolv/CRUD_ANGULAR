@@ -28,7 +28,8 @@ import { MatTableModule } from '@angular/material/table';
 import { MatPaginatorModule } from '@angular/material/paginator';
 import { MatSortModule } from '@angular/material/sort';
 import localPt from '@angular/common/locales/pt';
-import { registerLocaleData } from '@angular/common'
+import { registerLocaleData } from '@angular/common';
+import { ProductUpdateComponent } from './components/product/product-update/product-update.component'
 
 registerLocaleData(localPt);
 
@@ -43,7 +44,8 @@ registerLocaleData(localPt);
     ProductCreateComponent,
     RedDirective,
     ProductReadComponent,
-    ProductRead2Component
+    ProductRead2Component,
+    ProductUpdateComponent
   ],
   imports: [
     BrowserModule,
