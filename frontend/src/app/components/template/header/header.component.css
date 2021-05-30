@@ -24,9 +24,18 @@
 
 .header .title-group {
     padding-left: 1rem;
-    color: #FFF;
+    text-decoration: none;
+}
+
+.header .title-group a {  
+  color: #FFF;
+  transition: color 0.2s;
 }
 
 .header .title-group i {
-    padding-right: 0.5rem;
+  padding-right: 0.5rem;
+}
+
+.header .title-group a:hover {  
+  color: black;
 }

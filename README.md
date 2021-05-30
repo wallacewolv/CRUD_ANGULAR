@@ -68,7 +68,8 @@ Application created with CLI from Angular, typing with Typescript and local back
 :heavy_check_mark: Created readById and updated function for data manipulation;\
 :heavy_check_mark: Created Update component with change in the update function and template;\
 :heavy_check_mark: Creating exclusion component and functions;\
-:heavy_check_mark: Adding error messages;
+:heavy_check_mark: Adding error messages;\
+:heavy_check_mark: Updating titles Home and Product Registration;
 
 ## :rocket: Technologies ##
 
