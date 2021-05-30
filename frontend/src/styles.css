@@ -14,3 +14,15 @@ body {
     margin-bottom: 0.25rem;
     vertical-align: middle;
 }
+
+.message-sucess {
+  background-color: #3ac95b;
+  color: #000;
+  filter: opacity(0.8);
+}
+
+.message-error {
+  background-color: #e35e6b;
+  color: #000;
+  filter: opacity(0.8);
+}
