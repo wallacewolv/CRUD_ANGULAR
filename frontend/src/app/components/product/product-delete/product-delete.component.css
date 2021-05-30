@@ -11,16 +11,16 @@ button {
 }
 
 .buttonUpdate {
-  background-color: #149458;
+  background-color: #e3536b;
   color: #FFF;
 }
 
 .buttonUpdate:hover {
-  background-color: #1db86f;
-  color: #535252;
+  background-color: #c24459;
+  color: #ffffff;
 }
 
 .buttonCancel:hover {
-  background-color: #c0bcbc;
+  background-color: #dad5d5;
   color: #4d4949;
 }

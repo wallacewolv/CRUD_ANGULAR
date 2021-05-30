@@ -6,6 +6,8 @@
 
 .sidenav a {
   color: #FFF;
+  transition: color 0.2s;
+  transition: background-image 0.2s;
 }
 
 .sidenav a:hover {
