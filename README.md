@@ -67,7 +67,11 @@ Application created with CLI from Angular, typing with Typescript and local back
 :heavy_check_mark: Integrating Table Component by adding locale en pt-BR;\
 :heavy_check_mark: Created readById and updated function for data manipulation;\
 :heavy_check_mark: Created Update component with change in the update function and template;\
+<<<<<<< HEAD
 :heavy_check_mark: Creating exclusion component and functions;
+=======
+:heavy_check_mark: Created exclusion component and roles;
+>>>>>>> c7be6f59632ff41320263f2907b067ce1912c5d7
 
 ## :rocket: Technologies ##
 
