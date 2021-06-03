@@ -24,11 +24,11 @@
   <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/wallacewolv/CRUD_ANGULAR?color=56BEB8" /> -->
 </p>
 
-<!-- Status -->
+<!-- Status
 
 <h4 align="center"> 
 	🚧  CRUD_ANGULAR 🚀 Under construction...  🚧
-</h4> 
+</h4> -->
 
 <hr>
 
